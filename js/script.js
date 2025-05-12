@@ -8,3 +8,6 @@ let myBird = "parrot";
 
 myBird = "kiki";
 console.log(myBird)
+
+const lab = 'bio';
+console.log (lab)
